@@ -2,6 +2,6 @@
 
 Tried to make a few abilities from the recently released game Valorant. Succeeded in implementing them in C++.
 
-[Dash]()
+[Dash](https://imgur.com/QbvhsgA)
 
-[High Jump]()
+[High Jump](https://imgur.com/0wH6d0R)
